@@ -58,7 +58,7 @@ Respectfully Submitted,
 
 ## 8. Important Notes
 - Clearly label the start of each section (except for the heading and signature)
-- Write a brief answer, discussion, and conclusion for each question presented
+- For each question presented write a brief answer, discussion, and conclusion
 - Number each question presented; number each brief answer, discussion, and conclusion with their associated question presented. 
 
 
