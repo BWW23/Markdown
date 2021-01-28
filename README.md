@@ -1,9 +1,9 @@
-## How to Write a Legal Memorandum 
+# How to Write a Legal Memorandum 
 
-# Introduction: 
+## Introduction: 
 A legal memorandum is an in-house document used by a law firm to project the ruling of a court case. To write a memorandum (memo) you most fully understand the case going to court, and research similar cases to understand the surrounding law. These similar cases will be used to a determine whether your firm will win the case going to court.
 
-# Theory 
+## Theory 
 A memo must objectively consider all the facts of a case, so that a law firm may make an effective legal strategy.
 # Format:
 ## 1. Heading 
